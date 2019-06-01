@@ -1,0 +1,291 @@
+{
+    "name": "viola",
+    "homecolor": "#c7f611",
+    "awaycolor": "#6d3939",
+    "seasons": [
+        {
+            "name": "2016",
+            "from": "2016",
+            "to": "2017",
+            "events": [
+                {
+                    "name": "gmartin@mccg.net",
+                    "date": "2019-05-15",
+                    "time": "21:30",
+                    "players": [
+                        {
+                            "name": "Rolly",
+                            "attendance": "2"
+                        },
+                        {
+                            "name": "Elegance Team 4",
+                            "attendance": "2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Elegance Team 4",
+                    "date": "2019-05-02",
+                    "time": "21:00",
+                    "isdeleted": true
+                },
+                {
+                    "name": "Elegance Team 4",
+                    "date": "2019-05-15",
+                    "time": "16:00",
+                    "isdeleted": true
+                }
+            ]
+        },
+        {
+            "name": "Elegance Team 43 - deleted",
+            "from": "2015",
+            "to": "2016",
+            "events": [
+                {
+                    "name": "gaaa",
+                    "date": "2019-05-16",
+                    "time": "01:00",
+                    "players": [
+                        {
+                            "name": "Greg Martin",
+                            "attendance": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "gmartin@mccg.net",
+                    "date": "2019-05-08",
+                    "time": "01:00",
+                    "players": [
+                        {
+                            "name": "Elegance Team 4",
+                            "attendance": "0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Elegance Team 4",
+                    "date": "2019-05-08",
+                    "time": ""
+                }
+            ],
+            "isdeleted": true
+        },
+        {
+            "name": "2017-2018",
+            "from": "2017",
+            "to": "2018",
+            "events": [
+                {
+                    "name": "Elegance Team 4",
+                    "date": "2019-05-22",
+                    "time": "21:00",
+                    "isdeleted": true
+                },
+                {
+                    "name": "Greg Martin",
+                    "date": "2019-05-31",
+                    "time": "20:30",
+                    "players": [
+                        {
+                            "name": "habs",
+                            "attendance": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Elegance Team 4",
+                    "date": "2019-05-15",
+                    "time": "21:00",
+                    "players": [
+                        {
+                            "name": "IBS Release Notes",
+                            "attendance": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Elegance Team 4",
+            "from": "2018",
+            "to": "2019"
+        },
+        {
+            "name": "habs34",
+            "from": "2019",
+            "to": "2020",
+            "events": [
+                {
+                    "name": "Elegance Team 4",
+                    "date": "2019-05-15",
+                    "time": "21:00",
+                    "players": [
+                        {
+                            "name": "Greg Martin",
+                            "attendance": "2"
+                        },
+                        {
+                            "name": "habs",
+                            "attendance": "2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Greg Martin",
+                    "date": "2019-05-01",
+                    "time": "21:00",
+                    "players": [
+                        {
+                            "name": "One",
+                            "attendance": "1"
+                        },
+                        {
+                            "name": "Two",
+                            "attendance": "2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "threads": [
+        {
+            "name": "Elegance Team 4",
+            "created": 1559127935,
+            "author": "joey",
+            "messages": [
+                {
+                    "name": "Elegance Team 4",
+                    "created": 1559129239,
+                    "author": "joey"
+                },
+                {
+                    "name": "someone sucks at hockey",
+                    "created": 1559129370,
+                    "author": "joey"
+                },
+                {
+                    "name": "someone sucks at hockey",
+                    "created": 1559129371,
+                    "author": "joey"
+                },
+                {
+                    "name": "someone is a hockey",
+                    "created": 1559129390,
+                    "author": "joey"
+                },
+                {
+                    "name": "how dit",
+                    "created": 1559129404,
+                    "author": "joey"
+                },
+                {
+                    "name": "two times",
+                    "created": 1559129417,
+                    "author": "joey"
+                },
+                {
+                    "name": "two times",
+                    "created": 1559129417,
+                    "author": "joey"
+                },
+                {
+                    "name": "Elegance Team 4",
+                    "created": 1559129425,
+                    "author": "joey"
+                },
+                {
+                    "name": "something",
+                    "created": 1559129572,
+                    "author": "joey"
+                },
+                {
+                    "name": "las vegas actually",
+                    "created": 1559129580,
+                    "author": "joey"
+                },
+                {
+                    "name": "okie",
+                    "created": 1559130125,
+                    "author": "joey"
+                },
+                {
+                    "name": "yabba",
+                    "created": 1559130157,
+                    "author": "joey"
+                }
+            ]
+        },
+        {
+            "name": "this is bullshit",
+            "created": 1559127965,
+            "author": "joey"
+        },
+        {
+            "name": "Last night we won the champtionship. Congrats team!",
+            "created": 1559130190,
+            "author": "joey"
+        },
+        {
+            "name": "WE WIN!!!",
+            "created": 1559130477,
+            "author": "joey"
+        },
+        {
+            "name": "Only We Won!",
+            "created": 1559130715,
+            "author": "joey"
+        },
+        {
+            "name": "Only We Won!2",
+            "created": 1559130905,
+            "author": "joey",
+            "messages": [
+                {
+                    "name": "Only We Won!2",
+                    "created": 1559130905,
+                    "author": "joey"
+                },
+                {
+                    "name": "so did we",
+                    "created": 1559130946,
+                    "author": "joey"
+                },
+                {
+                    "name": "you mffer",
+                    "created": 1559130955,
+                    "author": "joey"
+                },
+                {
+                    "name": "why so long?",
+                    "created": 1559130963,
+                    "author": "joey"
+                }
+            ]
+        },
+        {
+            "name": "Controversial goal last night. I've filed a protest with the league. We'll know more after the hearing at noon today.",
+            "created": 1559131023,
+            "author": "joey",
+            "messages": [
+                {
+                    "name": "Controversial goal last night. I've filed a protest with the league. We'll know more after the hearing at noon today.",
+                    "created": 1559131023,
+                    "author": "joey"
+                },
+                {
+                    "name": "They better reverse that",
+                    "created": 1559131033,
+                    "author": "joey"
+                },
+                {
+                    "name": "Ya that was garbage. And no penalty call on the full on body check on Rufus.",
+                    "created": 1559131062,
+                    "author": "joey"
+                }
+            ]
+        }
+    ]
+}
