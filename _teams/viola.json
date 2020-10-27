@@ -110,7 +110,14 @@
         {
             "name": "Elegance Team 4",
             "from": "2018",
-            "to": "2019"
+            "to": "2019",
+            "events": [
+                {
+                    "name": "Elegance Team 4",
+                    "date": "2019-06-10",
+                    "time": "21:00"
+                }
+            ]
         },
         {
             "name": "habs34",
